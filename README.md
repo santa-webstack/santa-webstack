@@ -1,4 +1,4 @@
-<img src="1.png" width="100%">
+<img src="hero-banner.png" width="100%">
 
 
 # Hi there! I'm Santa Akter👋
